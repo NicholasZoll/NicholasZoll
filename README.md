@@ -16,7 +16,10 @@ Development Tools:  PostgreSQL, Flask, Git Bash, GitHub, VS Code, MySQL, AJAX
 
 ## :book: Projects
 Classifieds-style Forum Website
-[Link to Project](https://github.com/NicholasZoll/3135-Forum-based-Website)
+
+Description: A dynamic forum-based website enabling users to post on various pages. It has interactive features using JavaScript and AJAX for real time updates and additional search features. Possesses integrated image processing capabilities for user-uploaded content.               
+
+[A link to this project](https://github.com/NicholasZoll/3135-Forum-based-Website)
 
 ## :page_facing_up: Goals and Objectives
-I strive to be an efficient and dependable developer. I always do my best to be a valuable member of my team and make sure that I am constantly furthering my skills so that I can improve. Learning new techniques and methods of enhancing my code is always my goal as well. 
+I strive to be an efficient and dependable developer. I always do my best to be a valuable member of my team and make sure that I am constantly furthering my skills so that I can improve. Learning new techniques and methods of enhancing my code is always my goal as well. I would also like to improve my front-end development skills as well as my familiarity with Java. 
