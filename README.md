@@ -6,8 +6,11 @@ Hello, my name is Nicholas Zoll and I am currently pursuing a Bachelors of Scien
 
 ## :writing_hand:  About Me
 Profession: Senior at the University of North Carolina at Charlotte
+
 Interests: Mobile Applications, Software Testing, Machine Learning
+
 Languages: Java, Python, C, C++, C#, SQL
+
 Development Tools:  PostgreSQL, Flask, Git Bash, GitHub, VS Code, MySQL, AJAX
 
 
