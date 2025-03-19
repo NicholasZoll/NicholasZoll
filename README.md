@@ -1,17 +1,17 @@
 ## Welcome 👋
-Hello, my name is Nicholas Zoll and I am currently pursuing a Bachelors of Science degree in Computer Science at the University of North Carolina at Charlotte, with a concentration in Software, Systems, and Networks. I am interested in bettering my skills as a software developer and am always looking forward to learning more in the field. 
+Hello, my name is Nicholas Zoll and I am a recent graduate from the University of North Carolina at Charlotte. I obtained a Bachelors of Science degree in Computer Science, with a concentration in Software, Systems, and Networks. I am interested in bettering my skills as a software developer and am always looking forward to learning more in the field. 
 <!--
 **NicholasZoll/NicholasZoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ## :writing_hand:  About Me
-  Profession: Senior at the University of North Carolina at Charlotte
+  Profession: Graduate with highest honors from the University of North Carolina at Charlotte
 
   Interests: Mobile Applications, Software Testing, Machine Learning, Back-end Development
 
   Languages: Java, Python, C, C++, C#, SQL, HTML/CSS, Javascript
 
-  Development Tools:  PostgreSQL, Flask, Git Bash, GitHub, VS Code, MySQL, AJAX
+  Development Tools:  PostgreSQL, Flask, Spring Boot, Git Bash, GitHub, VS Code, MySQL, AJAX, Linux
 
 
 ## :book: Projects
